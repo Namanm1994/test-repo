@@ -1,0 +1,5 @@
+# example output json
+*json_output.json
+
+# compiled files
+*.pyc
